@@ -78,4 +78,4 @@ _Relance imprévue ? Note-la en précisant pourquoi._
 
 | Je n'ai pas pu demander / pas eu de réponse claire | Pourquoi c'est important | → §6 du cadrage |
 |---|---|---|
-| | | |
+| Quel délai maximal d'orientation resterait acceptable pour un ticket de paie reçu le 24 du mois, même si le tri automatisé réduit le temps global ? | Préciser le garde-fou métier pour le cas où un retard peut faire manquer une régularisation ; le gain global de temps et le taux de routage correct ne suffisent pas à définir ce risque. | KPI / garde-fou paie |
